@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>food</title>
+    <desc>Created with Sketch.</desc>
+    <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(13.000000, 21.000000)">
+            <path d="M62.0778454,40.3629459 C59.9318532,21.6962792 50.5985199,12.3629459 34.0778454,12.3629459 C17.557171,12.3629459 8.22383768,21.6962792 6.07784543,40.3629459 L62.0778454,40.3629459 Z" id="Oval" fill="#00FFBF"></path>
+            <path d="M6.99132669,20.7111307 C4.55507309,23.9095774 2.25057934,30.4601824 0.0778454324,40.3629459 L59.0778454,40.3629459 L59.0778454,40.3629459 C56.8168893,20.6962792 46.983556,10.8629459 29.5778454,10.8629459 C23.9662215,10.8629459 19.1416901,11.8850482 15.1042514,13.9292528" id="Path" stroke="#222222" stroke-width="2"></path>
+            <path d="M0,44.6108017 L58.5259838,44.6108017" id="Path-258" stroke="#222222" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M41.0778454,19.8629459 C45.7492571,20.7177101 49.199912,24.168365 51.4298101,30.2149105" id="Path-259" stroke="#FFFFFF" stroke-width="2" transform="translate(46.253828, 25.038928) rotate(12.000000) translate(-46.253828, -25.038928) "></path>
+            <path d="M35.8239655,16.1068074 C37.9871376,16.9532611 39.6384387,17.9947013 40.7778689,19.2311282" id="Path-259" stroke="#FFFFFF" stroke-width="2" transform="translate(38.300917, 17.668968) rotate(-21.000000) translate(-38.300917, -17.668968) "></path>
+            <path d="M25,9.29373749 C32.8723054,3.03588573 34.5717614,-0.0617162911 30.0983681,0.000931430424 C25.6215146,0.00675912545 27.3209706,3.10436115 35.1967362,9.29373749" id="Path-288" stroke="#222222" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
