@@ -2,4 +2,4 @@
 
 <p align="center"><img width="600" src="recko.gif" align="center"></p>
 
-<p align="center">Deployment Will be live soon...</p>
+<p align="center">Please check the demo http://manojsinghnegi.com:4000/</p>
