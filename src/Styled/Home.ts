@@ -2,6 +2,10 @@
 import styled from "styled-components";
 // #endregion Global Imports
 
+export const Apod = styled.div``
+export const ApodButton = styled.div``
+export const TopText = styled.div``
+
 export const MainContainer = styled.div`
     background-color: ${({ theme }) => theme.colors.primary};
 `;
